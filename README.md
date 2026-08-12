@@ -36,6 +36,7 @@ class KasimShah extends SoftwareEngineer {
 
     this.openTo = {
       roles: ["Full Time", "Internship", "SDE", "MERN Full Stack Developer"],
+      companyType: ["Product-based Companies", "Stable Startups"],
       workMode: ["Onsite", "Remote", "Hybrid"],
       location: ["India", "International / Abroad"]
     };
