@@ -105,7 +105,7 @@ console.log(me.getStrengths());
 
 **Problem Solved:** Digitizes and centralizes mosque operations, delivering transparent financial tracking, automated event management, and deep administrative analytics.
 
-[🔗 Live Demo](#) • [💻 Source Code](#)
+[🔗 Live Demo](https://faizan-e-madina-sunni-masjid.vercel.app) • [💻 Source Code](https://github.com/kasimshah19/Faizan-E-Madina-Sunni-Masjid)
 
 </td>
 <td width="50%">
