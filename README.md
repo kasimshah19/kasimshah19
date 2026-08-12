@@ -206,7 +206,7 @@ console.log(me.openTo);
 
 | Degree | Institute | Affiliated Body | Duration | Status |
 |--------|-----------|------------------|----------|--------|
-| **B.Tech** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (BATU) | 4 Years (From First Year) | Final Year — 🎓 2026 |
+| **B.Tech** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (DBATU) | 4 Years (From First Year) | Final Year — 🎓 2026 |
 | **Diploma** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Maharashtra State Board of Technical Education (MSBTE) | 2 Years (after 12th) | ✅ Completed |
 
 </div>
