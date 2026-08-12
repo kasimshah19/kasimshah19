@@ -1,284 +1,224 @@
-<!-- HERO SECTION: 6-SECOND RULE COMPLIANT -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=220&section=header&text=Hi%20👋,%20I'm%20Kasim%20Shah&fontSize=60&fontColor=38bdf8&animation=fadeIn" width="100%" alt="Kasim Shah Header Banner" />
-  <br>
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=250&section=header&text=Hi%20There!%20I'm%20Kasim%20Shah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18"/> 
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Developer;Software+Engineer;Backend-Focused+Developer;System+Architecture+Enthusiast;Real-World+Problem+Solver;Final-Year+B.Tech+Student" alt="Typing SVG" /> 
+<br/><br/>
 
-  <a href="https://linkedin.com/in/kasim-shah-176175340" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=MERN+Stack+Developer;Full+Stack+Developer;Software+Engineer;Backend-Focused+Developer;System+Architecture+Enthusiast;Real-World+Problem+Solver;Final-Year+B.Tech+Student" alt="Kasim Shah Roles Typing Animation" />
-  </a>
-</div>
+<a href="https://linkedin.com/in/kasim-shah-176175340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:kasimshah998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="https://github.com/kasimshah19"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
-<p align="center">
-  <b>Building scalable, secure and user-focused web applications with the MERN stack.</b>
-</p>
+<br/><br/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/kasim-shah-176175340"><img src="https://img.shields.io/badge/Open%20to%20Work-Success?style=for-the-badge&logo=opslevel&logoColor=white&color=22c55e" alt="Open to Work Badge" /></a>
-  <a href="https://linkedin.com/in/kasim-shah-176175340"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn Profile Badge" /></a>
-  <a href="mailto:kasimshah998@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email Badge" /></a>
-  <a href="https://github.com/kasimshah19"><img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub Profile Badge" /></a>
-  <!-- <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-0f2027?style=for-the-badge&logo=googledocs&logoColor=38bdf8" alt="Resume Badge" /></a> -->
-  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio Badge" /></a> -->
-</div>
+<img src="https://komarev.com/ghpvc/?username=kasimshah19&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/> 
+</div> 
 
----
+<img src="https://raw.githubusercontent.com/kasimshah19/kasimshah19/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<details>
-<summary><b>📚 Table of Contents</b> <i>(Click to expand)</i></summary>
+## 🚀 About Me
 
-1. [About Me](#-about-me)
-2. [Engineering Mindset](#-engineering-mindset)
-3. [Tech Stack](#️-tech-stack)
-4. [Full-Stack Architecture](#-full-stack-architecture)
-5. [Backend Development](#️-backend-development)
-6. [Database & Data Modeling](#-database--data-modeling)
-7. [Real-World Problem Solving](#-real-world-problem-solving)
-8. [System Design Thinking](#-system-design--architecture-thinking)
-9. [How I Build Projects](#-how-i-build-a-full-stack-project)
-10. [Featured Projects](#-featured-projects)
-11. [Education](#-education)
-12. [Certifications & Coding Profiles](#-certifications--achievements)
-13. [GitHub Analytics](#-github-analytics)
-14. [Contact](#-lets-connect)
+```javascript
+class KasimShah extends SoftwareEngineer {
+  constructor() {
+    super();
+    this.role          = "MERN Stack Developer | Software Engineer";
+    this.education     = "B.Tech (Final Year) - Computer Science / IT";
+    this.college       = "Ahinsa Institute of Technology, Dondaicha";
+    this.university    = "Dr. Babasaheb Ambedkar Technological University (BATU)";
+    this.status        = "🎯 Actively seeking Placement Opportunities (SDE / Full Stack Roles)";
+    this.currentFocus  = "Backend Engineering, System Design & Scalable Architectures";
+    this.email         = "kasimshah998@gmail.com";
+  }
 
-</details>
+  getStrengths() {
+    return [
+      "Designing end-to-end system architecture for real-world applications",
+      "Building RESTful & scalable APIs with Node.js & Express",
+      "Database schema design, indexing & optimization (MongoDB)",
+      "Translating real-world problems into clean, maintainable code",
+      "Debugging complex production issues & writing test-ready code",
+      "Understanding client-server data flow, auth flow & deployment pipeline"
+    ];
+  }
 
----
+  whatDrivesMe() {
+    return "Building products that solve real problems — not just writing code that runs.";
+  }
+}
 
-## 👨‍💻 About Me
+const me = new KasimShah();
+console.log(me.getStrengths());
+// > "I turn ☕ into 💻 and bugs into 🐞 ➜ ✅ features!"
+```
 
-Hello! I am a final-year B.Tech Computer Engineering student and an industry-oriented **MERN Stack Developer**. My core objective is building complete, production-ready web applications with a robust focus on backend engineering.
-
-My strength is understanding the complete structural lifecycle of software:
-`User Interface` ➔ `Frontend` ➔ `API Layer` ➔ `Business Logic` ➔ `Auth` ➔ `Database` ➔ `Deployment`
-
-I care deeply about:
-- API Communication & Database Design
-- Authentication & Authorization Flows
-- Frontend-Backend Communication
-- Converting real-world requirements into technical solutions
-
----
-
-## 🧠 Engineering Mindset
-
-| Area | My Approach |
-| :--- | :--- |
-| **Problem Solving** | Understand the real-world problem before writing code |
-| **Architecture** | Design modules, APIs, database flow and responsibilities |
-| **Backend** | Build structured APIs and core business logic |
-| **Database** | Design appropriate schemas and relationships |
-| **Security** | Think about authentication, authorization and validation |
-| **Frontend** | Build responsive and user-friendly interfaces |
-| **Scalability** | Prefer modular and maintainable architecture |
-| **Collaboration** | Use Git/GitHub and structured workflows |
-| **Debugging** | Identify root causes instead of applying temporary fixes |
-| **Product Thinking** | Understand what the user/business actually needs |
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-0f2027?style=for-the-badge&logo=html5&logoColor=38bdf8" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-0f2027?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=38bdf8" alt="JavaScript" /> <img src="https://img.shields.io/badge/React.js-0f2027?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0f2027?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-0f2027?style=for-the-badge&logo=bootstrap&logoColor=38bdf8" alt="Bootstrap" />
+| Category | Technologies | What I Do With It |
+| :--- | :--- | :--- |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap"/> | Responsive, pixel-perfect UIs with React Hooks & Context API · State management with Redux Toolkit · Async data handling with Axios/Fetch · Mobile-first, cross-browser design |
+| **⚙️ Backend (Core Focus)** | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,socketio,redis"/> | RESTful & GraphQL API design · JWT/OAuth authentication & bcrypt hashing · Real-time features with Socket.io · Middleware, validation & centralized error handling · Redis caching · MVC architecture |
+| **🗄️ Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase"/> | Schema design & Aggregation Pipelines in MongoDB · Indexing & query optimization · Working knowledge of MySQL/PostgreSQL · Data modeling for scale |
+| **🧰 Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,vercel,netlify,linux"/> | Git/GitHub branching & PR workflows · API testing/documentation with Postman · Docker basics · Deployment on Vercel/Netlify/Render/Railway · Linux environment |
+| **💻 Languages & CS Core** | <img src="https://skillicons.dev/icons?i=cpp,java,python,js,c"/> | Strong DSA, OOPs, DBMS, OS & Computer Networks fundamentals · Regular problem solving on LeetCode/GFG/Codeforces |
 
-### Backend *(Strong Interest)*
-<img src="https://img.shields.io/badge/Node.js-0f2027?style=for-the-badge&logo=node.js&logoColor=38bdf8" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-0f2027?style=for-the-badge&logo=express&logoColor=38bdf8" alt="Express" /> <img src="https://img.shields.io/badge/REST_APIs-0f2027?style=for-the-badge&logo=bruno&logoColor=38bdf8" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT_Auth-0f2027?style=for-the-badge&logo=jsonwebtokens&logoColor=38bdf8" alt="JWT" /> <img src="https://img.shields.io/badge/Middleware-0f2027?style=for-the-badge&logo=gnubash&logoColor=38bdf8" alt="Middleware" />
-
-### Database
-<img src="https://img.shields.io/badge/MongoDB-0f2027?style=for-the-badge&logo=mongodb&logoColor=38bdf8" alt="MongoDB" /> <img src="https://img.shields.io/badge/Mongoose-0f2027?style=for-the-badge&logo=mongoose&logoColor=38bdf8" alt="Mongoose" /> <img src="https://img.shields.io/badge/MySQL-0f2027?style=for-the-badge&logo=mysql&logoColor=38bdf8" alt="MySQL" /> <img src="https://img.shields.io/badge/Firebase-0f2027?style=for-the-badge&logo=firebase&logoColor=38bdf8" alt="Firebase" />
-
-### Languages & Tools
-<img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=38bdf8" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-0f2027?style=for-the-badge&logo=visual-studio-code&logoColor=38bdf8" alt="VS Code" /> <img src="https://img.shields.io/badge/Postman-0f2027?style=for-the-badge&logo=postman&logoColor=38bdf8" alt="Postman" /> <img src="https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=java&logoColor=38bdf8" alt="Java" /> <img src="https://img.shields.io/badge/C-0f2027?style=for-the-badge&logo=c&logoColor=38bdf8" alt="C" />
 </div>
 
 ---
 
-## 🏗️ Full-Stack Architecture
+## ⚙️ Backend Skills — Deep Dive (Core Interest Area)
 
-I understand how to independently architect full-stack environments.
-
-```mermaid
-graph LR
-    A[USER] -->|Action| B(REACT FRONTEND)
-    B -->|API Request| C(NODE.JS + EXPRESS.JS)
-    C -->|Guard| D{AUTH / RBAC}
-    D -->|Executes| E(BUSINESS LOGIC)
-    E <-->|Queries| F[(MONGODB)]
-    E -->|JSON Response| B
-    B -->|Render UI| A
-    
-    style A fill:#0f2027,stroke:#38bdf8,stroke-width:1px,color:#fff
-    style B fill:#0f2027,stroke:#38bdf8,stroke-width:1px,color:#fff
-    style C fill:#0f2027,stroke:#38bdf8,stroke-width:1px,color:#fff
-    style D fill:#0f2027,stroke:#38bdf8,stroke-width:1px,color:#fff
-    style E fill:#0f2027,stroke:#38bdf8,stroke-width:1px,color:#fff
-    style F fill:#0f2027,stroke:#38bdf8,stroke-width:1px,color:#fff
-```
-
-**[ASCII Fallback]**
-`USER ➔ REACT FRONTEND ➔ NODE.JS/EXPRESS ➔ AUTH/RBAC ➔ BUSINESS LOGIC ➔ DATABASE ➔ RESPONSE ➔ UI`
-
-*   **Frontend Layer:** UI, state management, routing, API integration, responsive design.
-*   **Backend Layer:** Routes, controllers, services, middleware, validation, error handling.
-*   **Database Layer:** Data persistence, schema design, queries, aggregation.
+- Designing RESTful APIs & GraphQL endpoints from scratch, following REST best practices
+- Authentication & Authorization using JWT, OAuth, bcrypt with refresh-token flows
+- Real-time features using Socket.io (chat apps, live notifications, live dashboards)
+- Middleware architecture, centralized error handling & request validation (Joi/Zod)
+- Caching strategies with Redis for performance optimization & session storage
+- Writing clean, modular, and testable backend code (MVC architecture)
+- API rate limiting, security best practices (Helmet, CORS, input sanitization)
+- Understanding of load balancing, horizontal scaling & microservices basics
 
 ---
 
-## ⚙️ Backend Development
+## 🏗️ Featured Projects & System Design
 
-*   **API Design:** RESTful APIs, modular route organization, controllers, middleware, and request/response validation.
-*   **Authentication:** Real-world implementations of registration, login, bcrypt password hashing, JWT lifecycle, and protected middleware routes.
-*   **Authorization:** Role-based permissions (RBAC) supporting granular admin/user capabilities.
-*   **Backend Security Mindset:** I focus on understanding and applying backend security principles appropriate to the project (validation, NoSQL injection awareness, IDOR prevention, mass assignment, rate limiting).
+Each project below was built with a clear system architecture, focusing on scalability, security, and real-world problem solving — not just tutorials.
+
+<table> 
+<tr> 
+<td width="50%">
+
+### 🛒 Project 1 — E-Commerce Platform
+**Tech:** React, Redux, Node.js, Express, MongoDB, JWT, Razorpay
+
+**Architecture & Workflow:**
+- Client (React + Redux) ↔ REST API (Express) ↔ MongoDB
+- JWT-based auth with role-based access (User/Admin)
+- Product search with pagination, filtering & indexing in MongoDB
+- Payment gateway integration with secure webhook handling
+- Admin dashboard for inventory & order management
+
+**Problem Solved:** Enables small businesses to set up a fully functional online store with secure payments and real-time inventory tracking.
+
+🔗 [Live Demo](#) • 💻 [Source Code](#)
+
+</td> 
+<td width="50%">
+
+### 💬 Project 2 — Real-Time Chat Application
+**Tech:** React, Node.js, Express, Socket.io, MongoDB
+
+**Architecture & Workflow:**
+- WebSocket connection layer via Socket.io for real-time bidirectional communication
+- Event-driven architecture for message broadcast & typing indicators
+- MongoDB for persistent chat history, indexed by conversation ID
+- JWT auth + protected socket connections
+
+**Problem Solved:** Solves the need for instant, reliable communication with low latency and message persistence.
+
+🔗 [Live Demo](#) • 💻 [Source Code](#)
+
+</td> 
+</tr> 
+<tr> 
+<td width="50%">
+
+### 📊 Project 3 — Task/Project Management Tool
+**Tech:** MERN Stack, REST API, Chart.js
+
+**Architecture & Workflow:**
+- Modular MVC backend structure (Controllers, Services, Models)
+- Role-based team collaboration (Admin/Member permissions)
+- RESTful CRUD APIs with proper validation & error handling middleware
+- Data visualization dashboard for task progress tracking
+
+**Problem Solved:** Helps teams organize, assign, and track project tasks efficiently, replacing scattered spreadsheets.
+
+🔗 [Live Demo](#) • 💻 [Source Code](#)
+
+</td> 
+<td width="50%">
+
+### 🔐 Project 4 — Authentication & API Gateway Service
+**Tech:** Node.js, Express, MongoDB, JWT, Redis
+
+**Architecture & Workflow:**
+- Centralized auth microservice issuing JWT access & refresh tokens
+- Redis for token blacklisting & rate limiting
+- Middleware layer for request throttling & security headers
+- Designed to plug into multiple frontend clients
+
+**Problem Solved:** Provides a reusable, secure authentication layer that can scale across multiple applications.
+
+🔗 [Live Demo](#) • 💻 [Source Code](#)
+
+</td> 
+</tr> 
+</table>
 
 ---
 
-## 🗄️ Database & Data Modeling
+## 📈 GitHub Analytics
 
-Translating business requirements into structured persistence logic.
-
-`Requirement` ➔ `Entity Identification` ➔ `Schema Design` ➔ `Relationships` ➔ `Validation` ➔ `CRUD` ➔ `API Integration`
-
----
-
-## 🌍 Real-World Problem Solving
-
-1. Understand the problem ➔ 2. Identify users ➔ 3. Identify user roles ➔ 4. Define requirements ➔ 5. Identify modules ➔ 6. Design application architecture ➔ 7. Design database models ➔ 8. Define APIs ➔ 9. Implement authentication ➔ 10. Implement authorization ➔ 11. Build frontend ➔ 12. Integrate frontend with backend ➔ 13. Validate data ➔ 14. Test edge cases ➔ 15. Improve security ➔ 16. Optimize and refactor ➔ 17. Deploy and maintain
-
----
-
-## 🧩 System Design & Architecture Thinking
-
-I trace features through their entire structural flow before implementation.
-
-`User` ➔ `Authentication` ➔ `Role Verification` ➔ `API` ➔ `Controller` ➔ `Service` ➔ `Database` ➔ `Response` ➔ `UI Update`
+<div align="center"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kasimshah19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimshah19&layout=compact&theme=tokyonight&border_radius=15"/> 
+<br/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimshah19&theme=tokyonight&border_radius=15" /> 
+<br/> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kasimshah19&theme=tokyo-night&hide_border=true&area=true" width="100%"/> 
+</div>
 
 ---
 
-## 🚀 How I Build a Full-Stack Project
+## 🏆 GitHub Trophies
 
-`01 Requirement Analysis` • `02 System Architecture` • `03 Database Design` • `04 API Design` • `05 Authentication & Authorization` • `06 Backend Development` • `07 Frontend Development` • `08 API Integration` • `09 Testing & Debugging` • `10 Security Review` • `11 Deployment` • `12 Maintenance & Improvements`
-
----
-
-## 📌 Featured Projects
-
-### 🚀 PROJECT_NAME
-> PROJECT_DESCRIPTION
-**Type:** Full Stack / Web Application
-**Tech Stack:** React • Node.js • Express.js • MongoDB • Tailwind
-**Core Features:** 
-- Feature 1
-- Feature 2
-- Feature 3
-**Architecture:** Frontend ➔ API ➔ Express.js Server [Routes/Controllers/Services] ➔ Database
-**My Contribution:** MY_ROLE
-**Engineering Focus:** API Design / Authentication / Database Modeling
-**Links:** [GitHub](PROJECT_GITHUB_URL) | [Live Demo](PROJECT_LIVE_URL)
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=kasimshah19&theme=algolia&no-frame=true&row=1&column=7"/> 
+</div>
 
 ---
 
 ## 🎓 Education
 
-| Degree / Certificate | Institute | Affiliated Body | Status |
-| :--- | :--- | :--- | :--- |
-| **Bachelor of Technology — Computer Engineering** | Ahinsa Institute Of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (DBATU), Maharashtra | Final Year |
-| **Diploma in Computer Technology** | Ahinsa Institute Of Technology, Dondaicha | Maharashtra State Board of Technical Education (MSBTE) | 2 Years |
-
----
-
-## 📜 Certifications & Achievements
-
-- `CERTIFICATION_NAME` — `ISSUING_PLATFORM` — `YEAR`
-- `HACKATHON_NAME` — `ORGANIZATION` — `YEAR`
-
-## 💻 Coding Profiles
-
-<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-0f2027?style=for-the-badge&logo=leetcode&logoColor=38bdf8" alt="LeetCode Profile" /></a> 
-<a href="YOUR_GFG_URL"><img src="https://img.shields.io/badge/GeeksforGeeks-0f2027?style=for-the-badge&logo=geeksforgeeks&logoColor=38bdf8" alt="GeeksforGeeks Profile" /></a> 
-
----
-
-## 💼 Why Hire Me?
-
-- Strong MERN foundation with holistic full-stack understanding.
-- Backend development interest & API design competence.
-- Systems architecture and real-world problem-solving approach.
-- Security-aware mindset & database design tracking.
-- Willingness to learn, adapt, and write production-grade code.
-- Final-year engineering candidate actively seeking full-time opportunities.
-
----
-
-## 🔭 Currently Focusing On
-
-Advanced MERN Stack Development, Backend Engineering, REST API Architecture, Database Design, Authentication & Authorization, RBAC, System Architecture, Software Engineering Best Practices, Interview & DSA Preparation.
-
-## 📚 Currently Learning / Improving
-
-`MERN` ➔ `Advanced Backend` ➔ `System Design` ➔ `Database Optimization` ➔ `Cloud & Deployment` 
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasimshah19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimshah19&theme=tokyonight&hide_border=true&background=0f2027&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="48%" />
-  
-  <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimshah19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38bdf8&text_color=ffffff" alt="Top Languages" width="50%" />
+| Degree | Institute | Affiliated Body | Duration | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **B.Tech — Computer Science / IT** | Ahinsa Institute of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (BATU) | 3 Years (Direct 2nd Year via Diploma) | Final Year — 🎓 2026 |
+| **Diploma — Computer Technology** | Ahinsa Institute of Technology, Dondaicha | Maharashtra State Board of Technical Education (MSBTE) | 2 Years (after 12th) | ✅ Completed |
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasimshah19&label=Profile%20Views&color=0f2027&style=for-the-badge" alt="Profile Views Counter" />
-</p>
+---
+
+## 🌱 Currently Focusing On
+
+- 🔭 Deepening backend & system design skills (scalability, load balancing, microservices)
+- 📚 Preparing for SDE interviews — DSA + System Design
+- 🤝 Open to Full Stack / Backend Developer internship & full-time roles
+- 💡 Exploring cloud deployment (AWS/GCP) for production-grade apps
 
 ---
 
-## 🐍 Contribution Activity
-<!-- GitHub Action generates this snake animation SVG. Ensure workflows are running properly to generate this file in the output branch. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasimshah19/kasimshah19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasimshah19/kasimshah19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kasimshah19/kasimshah19/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
----
-
-## 🤝 Professional Strengths
-`Problem Solving` • `Logical Thinking` • `System Thinking` • `Communication` • `Debugging` • `Continuous Improvement` • `Requirement Understanding`
-
----
-
-## 🎯 Career Objective
-
-I am looking for an opportunity where I can contribute as a MERN Stack / Full Stack Developer, strengthen my backend engineering skills, work on real-world software systems, collaborate with experienced engineers, and grow into a strong software engineer.
-
-## 💼 Open to Opportunities
-
-**Have an interesting opportunity or project? Let's connect.**
-Actively looking for: *MERN Stack Developer, Full Stack Developer, Backend Developer, Software Engineer*.
-
----
-
-## 📬 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:kasimshah998@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email Contact" /></a>
-  <a href="https://linkedin.com/in/kasim-shah-176175340"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn Contact" /></a>
-  <a href="https://github.com/kasimshah19"><img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub Contact" /></a>
-</div>
+
+I'm actively seeking placement opportunities as a MERN Stack / Software Engineer. Feel free to reach out — always open to discussing new opportunities, collaborations, or tech!
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=100&section=footer" width="100%" alt="Footer Animated Wave" />
-  <p><b>Thanks for visiting my profile! 🚀</b></p>
-  <code>Building • Learning • Solving • Improving</code>
-  <p><i>⭐ If you found my profile interesting, feel free to check out my repositories.</i></p>
-</div>
+<a href="https://linkedin.com/in/kasim-shah-176175340"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="mailto:kasimshah998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="https://github.com/kasimshah19"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"> 
+
+</div> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer"/>
