@@ -18,9 +18,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
 class KasimShah extends SoftwareEngineer {
   constructor() {
     super();
@@ -28,9 +25,17 @@ class KasimShah extends SoftwareEngineer {
     this.education     = "B.Tech (Final Year) - Computer Technology";
     this.college       = "Ahinsa Institute of Technology, Dondaicha";
     this.university    = "Dr. Babasaheb Ambedkar Technological University (BATU)";
+    this.location      = "Dhule, Maharashtra, India";
     this.status        = "Actively seeking Placement Opportunities (SDE / Full Stack Roles)";
     this.currentFocus  = "Backend Engineering, System Design & Scalable Architectures";
+    this.currentWork   = "Building end-to-end MERN projects with real-world system architecture";
     this.email         = "kasimshah998@gmail.com";
+
+    this.openTo = {
+      roles: ["Full Time", "Internship", "SDE", "MERN Full Stack Developer"],
+      workMode: ["Onsite", "Remote", "Hybrid"],
+      location: ["India", "International / Abroad"]
+    };
   }
 
   getStrengths() {
@@ -51,8 +56,8 @@ class KasimShah extends SoftwareEngineer {
 
 const me = new KasimShah();
 console.log(me.getStrengths());
+console.log(me.openTo);
 // > "I turn ☕ into 💻 and bugs into 🐞 ➜ ✅ features!"
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
