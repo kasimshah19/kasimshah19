@@ -18,6 +18,9 @@
 
 ---
 
+## 🚀 About Me
+
+```javascript
 class KasimShah extends SoftwareEngineer {
   constructor() {
     super();
@@ -58,6 +61,7 @@ const me = new KasimShah();
 console.log(me.getStrengths());
 console.log(me.openTo);
 // > "I turn ☕ into 💻 and bugs into 🐞 ➜ ✅ features!"
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -105,7 +109,7 @@ console.log(me.openTo);
 - Secure RESTful APIs with advanced RBAC (Admin, Committee, Member, Volunteer)
 - Comprehensive modules: Analytics, Donations, Events, Audit Logs, Settings
 - Complex MongoDB Aggregation pipelines for real-time dashboard metrics
-- Robust middleware for error handling, centralized validation, and security
+- Robust middleware for error logging, validation, and security
 - Modular React frontend built with highly reusable design system components
 
 **Problem Solved:** Digitizes and centralizes mosque operations, delivering transparent financial tracking, automated event management, and deep administrative analytics.
@@ -201,7 +205,7 @@ console.log(me.openTo);
 
 | Degree | Institute | Affiliated Body | Duration | Status |
 |--------|-----------|------------------|----------|--------|
-| **B.Tech** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (DBATU) | 4 Years | Final Year — 🎓 2026 |
+| **B.Tech** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (BATU) | 4 Years (From First Year) | Final Year — 🎓 2026 |
 | **Diploma** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Maharashtra State Board of Technical Education (MSBTE) | 2 Years (after 12th) | ✅ Completed |
 
 </div>
