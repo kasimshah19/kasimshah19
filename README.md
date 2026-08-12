@@ -28,7 +28,7 @@ class KasimShah extends SoftwareEngineer {
     this.education     = "B.Tech (Final Year) - Computer Technology";
     this.college       = "Ahinsa Institute of Technology, Dondaicha";
     this.university    = "Dr. Babasaheb Ambedkar Technological University (BATU)";
-    this.status        = "🎯 Actively seeking Placement Opportunities (SDE / Full Stack Roles)";
+    this.status        = "Actively seeking Placement Opportunities (SDE / Full Stack Roles)";
     this.currentFocus  = "Backend Engineering, System Design & Scalable Architectures";
     this.email         = "kasimshah998@gmail.com";
   }
@@ -196,7 +196,7 @@ console.log(me.getStrengths());
 
 | Degree | Institute | Affiliated Body | Duration | Status |
 |--------|-----------|------------------|----------|--------|
-| **B.Tech** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (BATU) | 3 Years (Direct 2nd Year via Diploma) | Final Year — 🎓 2026 |
+| **B.Tech** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (DBATU) | 3 Years (Direct 2nd Year via Diploma) | Final Year — 🎓 2026 |
 | **Diploma** — Computer Technology | Ahinsa Institute of Technology, Dondaicha | Maharashtra State Board of Technical Education (MSBTE) | 2 Years (after 12th) | ✅ Completed |
 
 </div>
