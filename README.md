@@ -93,17 +93,17 @@ console.log(me.getStrengths());
 <tr>
 <td width="50%">
 
-### 🛒 Project 1 — E-Commerce Platform
-**Tech:** React, Redux, Node.js, Express, MongoDB, JWT, Razorpay
+### 🕌 Project 1 — Mosque Management System (Faizan-E-Madina)
+**Tech:** React, Node.js, Express, MongoDB, JWT, Tailwind CSS
 
 **Architecture & Workflow:**
-- Client (React + Redux) ↔ REST API (Express) ↔ MongoDB
-- JWT-based auth with role-based access (User/Admin)
-- Product search with pagination, filtering & indexing in MongoDB
-- Payment gateway integration with secure webhook handling
-- Admin dashboard for inventory & order management
+- Secure RESTful APIs with advanced RBAC (Admin, Committee, Member, Volunteer)
+- Comprehensive modules: Analytics, Donations, Events, Audit Logs, Settings
+- Complex MongoDB Aggregation pipelines for real-time dashboard metrics
+- Robust middleware for error handling, centralized validation, and security
+- Modular React frontend built with highly reusable design system components
 
-**Problem Solved:** Enables small businesses to set up a fully functional online store with secure payments and real-time inventory tracking.
+**Problem Solved:** Digitizes and centralizes mosque operations, delivering transparent financial tracking, automated event management, and deep administrative analytics.
 
 [🔗 Live Demo](#) • [💻 Source Code](#)
 
