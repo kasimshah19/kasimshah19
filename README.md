@@ -1,94 +1,85 @@
-<!-- 🚀 Fullscreen Developer Background (GIF) -->
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" style="max-height: 200px;" />
-</p>
-
-<!-- 💻 Animated Developer Hero Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/kyechan99/main/images/header.gif" alt="developer hero banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Kasim Shah</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasimshah&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+App+Builder;Debugger+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
----
-
-- 🌱 I’m currently learning **Full Stack Development and DevOps**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-
-- 💬 Ask me about **MERN Stack, Web Development, and Android Apps**
-
-- 📫 How to reach me: **your-email@example.com**
-
-- ⚡ Fun fact: **I love debugging more than coding sometimes!**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,androidstudio,vscode,git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kasimshah&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=kasimshah&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasimshah&theme=tokyonight" width="98%" />
-</p>
-
----
-
-### 🧠 Currently Exploring
-
-- Building scalable web apps with **Next.js**  
-- Learning **CI/CD & Docker**
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- Header Section with Typing Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=200&section=header&text=Hi%20there,%20I'm%20Kasim%20Shah!%20👋&fontSize=35&fontColor=38bdf8&animation=fadeIn" alt="Header" />
+  
+  <br>
+  
+  <a href="https://linkedin.com/in/kasim-shah-176175340" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer;Final+Year+B.Tech+Student;MERN+Stack+Developer;Backend+%26+System+Architecture+Enthusiast" alt="Typing Animation" />
   </a>
-  <a href="mailto:kasimshah9988@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+
+I am a passionate **Software Engineer** and **Full-Stack (MERN) Developer** currently in my final year of B.Tech, actively seeking placement opportunities. I specialize in breaking down complex business requirements into scalable **System Architectures** and elegantly translating them into real-world applications.
+
+*   💡 **Core Strength:** System design, mapping complex real-world problems into clean entity relationships, and architecting robust API backends.
+*   🚀 **Backend Enthusiast:** Deeply interested in backend logic, API security, authentication flows, and database aggregations.
+*   🎓 **Education:** Final year B.Tech student with a strong technical foundation built over a prior 2-year Diploma in Computer Technology.
+*   📫 **Reach me at:** [kasimshah998@gmail.com](mailto:kasimshah998@gmail.com)
 
 ---
 
-### 🎯 Live Contribution Graph
+### 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasimshah&bg_color=0d1117&color=00ffe1&line=00bfbf&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>
+| Degree / Certificate | Institution | Affiliated University / Board |
+| :--- | :--- | :--- |
+| **B.Tech in Computer Engineering** (Final Year) | Ahinsa Institute Of Technology, Dondaicha | Dr. Babasaheb Ambedkar Technological University (DBATU) |
+| **Diploma in Computer Technology** | Ahinsa Institute Of Technology, Dondaicha | Maharashtra State Board of Technical Education (MSBTE) |
 
 ---
 
-<!-- ⚡ Aesthetic Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=140&section=footer&fontColor=ffffff" />
-</p>
+### 💻 Technologies & Tools (The MERN Stack)
 
-⭐️ From [kasimshah](https://github.com/kasimshah)
+I love working across the entire stack, but my heart lies in building secure and scalable server architectures.
+
+<div align="center">
+  
+  #### 🎨 Frontend Expertise
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,html,css,vite&theme=dark" alt="Frontend stack" /></a>
+  <br><br>
+
+  #### ⚙️ Backend & APIs (My Core Interest)
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" alt="Backend stack" /></a>
+  <br><br>
+
+  #### 🛠️ Architecture & Tools
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools stack" /></a>
+
+</div>
+
+---
+
+### 🔥 My GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kasimshah19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimshah19&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimshah19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" alt="Top Languages" width="50%" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+Currently looking for full-time Software Engineering roles! Feel free to reach out to me for system architecture discussions, MERN opportunities, or just to say hi!
+
+<div align="center">
+  <a href="https://linkedin.com/in/kasim-shah-176175340" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kasimshah998@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/kasimshah19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<!-- Animated footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=100&section=footer" alt="Footer Wave" width="100%" />
